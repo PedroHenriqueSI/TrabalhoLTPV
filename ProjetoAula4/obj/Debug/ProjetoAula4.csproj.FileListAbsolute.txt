@@ -10,3 +10,15 @@ C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\obj\Debug\ProjetoAula4.
 C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\obj\Debug\ProjetoAula4.pdb
 C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\obj\Debug\ProjetoAula4.FrmCadastroAluno.resources
 C:\Users\Vinicius\source\repos\ProjetoAula4\ProjetoAula4\obj\Debug\ProjetoAula4.FrmEditorTexto.resources
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\ProjetoAula4.exe.config
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\ProjetoAula4.exe
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\ProjetoAula4.pdb
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.csprojAssemblyReference.cache
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.FrmCadastroAluno.resources
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.FrmEditorTexto.resources
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.FrmPrincipal.resources
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.Properties.Resources.resources
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.csproj.GenerateResource.cache
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.csproj.CoreCompileInputs.cache
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.exe
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.pdb
