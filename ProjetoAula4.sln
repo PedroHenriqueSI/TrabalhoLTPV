@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{37B3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNITPAC.LTPV.Dominio", "UNITPAC.LTPV.Dominio\UNITPAC.LTPV.Dominio.csproj", "{D4ECF44F-B104-4C49-AA24-2C0FED70023F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{C2E8BC75-1EC8-422C-8041-BCD6ADC969DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNITPAC.LTPV.Dados", "UNITPAC.LTPV.Dados\UNITPAC.LTPV.Dados.csproj", "{03BCFF96-8759-46C1-9643-019FE5E766FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +27,17 @@ Global
 		{D4ECF44F-B104-4C49-AA24-2C0FED70023F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4ECF44F-B104-4C49-AA24-2C0FED70023F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4ECF44F-B104-4C49-AA24-2C0FED70023F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03BCFF96-8759-46C1-9643-019FE5E766FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BCFF96-8759-46C1-9643-019FE5E766FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BCFF96-8759-46C1-9643-019FE5E766FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BCFF96-8759-46C1-9643-019FE5E766FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D4ECF44F-B104-4C49-AA24-2C0FED70023F} = {37B340AF-1619-401B-B467-FDB199FE19FA}
+		{03BCFF96-8759-46C1-9643-019FE5E766FF} = {C2E8BC75-1EC8-422C-8041-BCD6ADC969DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AE8684ED-95FE-4499-A86F-804C36CC0B66}

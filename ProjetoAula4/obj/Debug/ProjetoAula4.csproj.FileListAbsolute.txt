@@ -22,3 +22,16 @@ C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.csproj.Ge
 C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.csproj.CoreCompileInputs.cache
 C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.exe
 C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.pdb
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\SimpleInjector.dll
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\SimpleInjector.xml
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\obj\Debug\ProjetoAula4.csproj.CopyComplete
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\UNITPAC.LTPV.Dados.dll
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\UNITPAC.LTPV.Dominio.dll
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\UNITPAC.LTPV.Dados.pdb
+C:\Users\PEDRO\Desktop\Aula4Grupo1\ProjetoAula4\bin\Debug\UNITPAC.LTPV.Dominio.pdb
